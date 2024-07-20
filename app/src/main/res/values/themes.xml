@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecyclerViewI" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+    <style name="Theme.RecyclerViewI" parent="Base.Theme.RecyclerViewI" />
+</resources>
